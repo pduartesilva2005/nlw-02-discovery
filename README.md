@@ -33,6 +33,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
+## 🔥 Como Começar
+- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw02-discovery.git`;
+- 2 - Entre na pasta `cd nlw02-discovery`;
+- 3 - Rode `yarn` ou `npm install` para instalar as dependências;
+- 4 - Rode `yarn dev` ou `npm run dev` para rodar o projeto
+
+## ⚡️ Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.

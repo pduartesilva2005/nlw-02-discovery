@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
 ## 🔥 Como Começar
-- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw-02-discovery.git`;
+- 1 - Faça um clone desse repositório `git clone https://github.com/pduartesilva2005/nlw-02-discovery.git`;
 - 2 - Entre na pasta `cd nlw-02-discovery`;
 - 3 - Rode `yarn` ou `npm install` para instalar as dependências;
 - 4 - Rode `yarn dev` ou `npm run dev` para rodar o projeto
